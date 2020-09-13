@@ -5994,6 +5994,7 @@ a.badge:focus {
 .carousel-inner > .item > a > img {
   display: block;
   line-height: 1;
+  margin: auto;
 }
 
 .carousel-inner > .active,
